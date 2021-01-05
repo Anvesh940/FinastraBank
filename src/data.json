@@ -1,0 +1,64 @@
+{
+  "savings": [
+    {
+      "image": "savings_1.jpg",
+      "type": "Super",
+      "ROI": 4.5,
+      "transaction": 5000
+    },
+    {
+      "image": "savings_2.jpg",
+      "type": "Silver",
+      "ROI": 4.7,
+      "transaction": 7000
+    },
+    {
+      "image": "savings_3.jpg",
+      "type": "Gold",
+      "ROI": 4.9,
+      "transaction": 9000
+    },
+    {
+      "image": "savings_3.jpg",
+      "type": "Gold",
+      "ROI": 4.9,
+      "transaction": 9000
+    },
+    {
+      "image": "savings_2.jpg",
+      "type": "Silver",
+      "ROI": 4.7,
+      "transaction": 7000
+    }
+  ],
+  "fixeddeposits": [
+    {
+      "image": "fixedDeposits_1.jpg",
+      "type": "Silver",
+      "ROI": 7.2,
+      "term": 3,
+      "amount": "5000-50000"
+    },
+    {
+      "image": "fixedDeposits_2.jpg",
+      "type": "Gold",
+      "ROI": 7.2,
+      "term": 3,
+      "amount": "5000-50000"
+    },
+    {
+      "image": "fixedDeposits_3.jpg",
+      "type": "Platinum",
+      "ROI": 7.2,
+      "term": 3,
+      "amount": "5000-50000"
+    },
+    {
+      "image": "fixedDeposits_1.jpg",
+      "type": "Silver",
+      "ROI": 7.2,
+      "term": 3,
+      "amount": "5000-50000"
+    }
+  ]
+}
